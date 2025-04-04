@@ -1,0 +1,15 @@
+D:\Users\Wayne.Wang\Documents\GitHub\Projects\4.TRIMSTRING4\bin\Debug\net9.0\4.TRIMSTRING4.exe
+D:\Users\Wayne.Wang\Documents\GitHub\Projects\4.TRIMSTRING4\bin\Debug\net9.0\4.TRIMSTRING4.deps.json
+D:\Users\Wayne.Wang\Documents\GitHub\Projects\4.TRIMSTRING4\bin\Debug\net9.0\4.TRIMSTRING4.runtimeconfig.json
+D:\Users\Wayne.Wang\Documents\GitHub\Projects\4.TRIMSTRING4\bin\Debug\net9.0\4.TRIMSTRING4.dll
+D:\Users\Wayne.Wang\Documents\GitHub\Projects\4.TRIMSTRING4\bin\Debug\net9.0\4.TRIMSTRING4.pdb
+D:\Users\Wayne.Wang\Documents\GitHub\Projects\4.TRIMSTRING4\obj\Debug\net9.0\4.TRIMSTRING4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Wayne.Wang\Documents\GitHub\Projects\4.TRIMSTRING4\obj\Debug\net9.0\4.TRIMSTRING4.AssemblyInfoInputs.cache
+D:\Users\Wayne.Wang\Documents\GitHub\Projects\4.TRIMSTRING4\obj\Debug\net9.0\4.TRIMSTRING4.AssemblyInfo.cs
+D:\Users\Wayne.Wang\Documents\GitHub\Projects\4.TRIMSTRING4\obj\Debug\net9.0\4.TRIMSTRING4.csproj.CoreCompileInputs.cache
+D:\Users\Wayne.Wang\Documents\GitHub\Projects\4.TRIMSTRING4\obj\Debug\net9.0\4.TRIMSTRING4.sourcelink.json
+D:\Users\Wayne.Wang\Documents\GitHub\Projects\4.TRIMSTRING4\obj\Debug\net9.0\4.TRIMSTRING4.dll
+D:\Users\Wayne.Wang\Documents\GitHub\Projects\4.TRIMSTRING4\obj\Debug\net9.0\refint\4.TRIMSTRING4.dll
+D:\Users\Wayne.Wang\Documents\GitHub\Projects\4.TRIMSTRING4\obj\Debug\net9.0\4.TRIMSTRING4.pdb
+D:\Users\Wayne.Wang\Documents\GitHub\Projects\4.TRIMSTRING4\obj\Debug\net9.0\4.TRIMSTRING4.genruntimeconfig.cache
+D:\Users\Wayne.Wang\Documents\GitHub\Projects\4.TRIMSTRING4\obj\Debug\net9.0\ref\4.TRIMSTRING4.dll
