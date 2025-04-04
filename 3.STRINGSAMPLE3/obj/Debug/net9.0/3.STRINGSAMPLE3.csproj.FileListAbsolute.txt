@@ -1,0 +1,15 @@
+D:\Users\Wayne.Wang\Documents\GitHub\Projects\3.STRINGSAMPLE3\bin\Debug\net9.0\3.STRINGSAMPLE3.exe
+D:\Users\Wayne.Wang\Documents\GitHub\Projects\3.STRINGSAMPLE3\bin\Debug\net9.0\3.STRINGSAMPLE3.deps.json
+D:\Users\Wayne.Wang\Documents\GitHub\Projects\3.STRINGSAMPLE3\bin\Debug\net9.0\3.STRINGSAMPLE3.runtimeconfig.json
+D:\Users\Wayne.Wang\Documents\GitHub\Projects\3.STRINGSAMPLE3\bin\Debug\net9.0\3.STRINGSAMPLE3.dll
+D:\Users\Wayne.Wang\Documents\GitHub\Projects\3.STRINGSAMPLE3\bin\Debug\net9.0\3.STRINGSAMPLE3.pdb
+D:\Users\Wayne.Wang\Documents\GitHub\Projects\3.STRINGSAMPLE3\obj\Debug\net9.0\3.STRINGSAMPLE3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Wayne.Wang\Documents\GitHub\Projects\3.STRINGSAMPLE3\obj\Debug\net9.0\3.STRINGSAMPLE3.AssemblyInfoInputs.cache
+D:\Users\Wayne.Wang\Documents\GitHub\Projects\3.STRINGSAMPLE3\obj\Debug\net9.0\3.STRINGSAMPLE3.AssemblyInfo.cs
+D:\Users\Wayne.Wang\Documents\GitHub\Projects\3.STRINGSAMPLE3\obj\Debug\net9.0\3.STRINGSAMPLE3.csproj.CoreCompileInputs.cache
+D:\Users\Wayne.Wang\Documents\GitHub\Projects\3.STRINGSAMPLE3\obj\Debug\net9.0\3.STRINGSAMPLE3.sourcelink.json
+D:\Users\Wayne.Wang\Documents\GitHub\Projects\3.STRINGSAMPLE3\obj\Debug\net9.0\3.STRINGSAMPLE3.dll
+D:\Users\Wayne.Wang\Documents\GitHub\Projects\3.STRINGSAMPLE3\obj\Debug\net9.0\refint\3.STRINGSAMPLE3.dll
+D:\Users\Wayne.Wang\Documents\GitHub\Projects\3.STRINGSAMPLE3\obj\Debug\net9.0\3.STRINGSAMPLE3.pdb
+D:\Users\Wayne.Wang\Documents\GitHub\Projects\3.STRINGSAMPLE3\obj\Debug\net9.0\3.STRINGSAMPLE3.genruntimeconfig.cache
+D:\Users\Wayne.Wang\Documents\GitHub\Projects\3.STRINGSAMPLE3\obj\Debug\net9.0\ref\3.STRINGSAMPLE3.dll
