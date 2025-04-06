@@ -1,0 +1,15 @@
+C:\Users\Wayne\Desktop\Projects\6-HelloWorld-String5\bin\Debug\net8.0\helloWorld.exe
+C:\Users\Wayne\Desktop\Projects\6-HelloWorld-String5\bin\Debug\net8.0\helloWorld.deps.json
+C:\Users\Wayne\Desktop\Projects\6-HelloWorld-String5\bin\Debug\net8.0\helloWorld.runtimeconfig.json
+C:\Users\Wayne\Desktop\Projects\6-HelloWorld-String5\bin\Debug\net8.0\helloWorld.dll
+C:\Users\Wayne\Desktop\Projects\6-HelloWorld-String5\bin\Debug\net8.0\helloWorld.pdb
+C:\Users\Wayne\Desktop\Projects\6-HelloWorld-String5\obj\Debug\net8.0\helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wayne\Desktop\Projects\6-HelloWorld-String5\obj\Debug\net8.0\helloWorld.AssemblyInfoInputs.cache
+C:\Users\Wayne\Desktop\Projects\6-HelloWorld-String5\obj\Debug\net8.0\helloWorld.AssemblyInfo.cs
+C:\Users\Wayne\Desktop\Projects\6-HelloWorld-String5\obj\Debug\net8.0\helloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Wayne\Desktop\Projects\6-HelloWorld-String5\obj\Debug\net8.0\helloWorld.sourcelink.json
+C:\Users\Wayne\Desktop\Projects\6-HelloWorld-String5\obj\Debug\net8.0\helloWorld.dll
+C:\Users\Wayne\Desktop\Projects\6-HelloWorld-String5\obj\Debug\net8.0\refint\helloWorld.dll
+C:\Users\Wayne\Desktop\Projects\6-HelloWorld-String5\obj\Debug\net8.0\helloWorld.pdb
+C:\Users\Wayne\Desktop\Projects\6-HelloWorld-String5\obj\Debug\net8.0\helloWorld.genruntimeconfig.cache
+C:\Users\Wayne\Desktop\Projects\6-HelloWorld-String5\obj\Debug\net8.0\ref\helloWorld.dll
