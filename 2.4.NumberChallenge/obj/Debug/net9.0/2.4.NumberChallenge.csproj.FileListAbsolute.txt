@@ -1,0 +1,15 @@
+C:\Users\Wayne\Desktop\Projects\2.4.NumberChallenge\bin\Debug\net9.0\2.4.NumberChallenge.exe
+C:\Users\Wayne\Desktop\Projects\2.4.NumberChallenge\bin\Debug\net9.0\2.4.NumberChallenge.deps.json
+C:\Users\Wayne\Desktop\Projects\2.4.NumberChallenge\bin\Debug\net9.0\2.4.NumberChallenge.runtimeconfig.json
+C:\Users\Wayne\Desktop\Projects\2.4.NumberChallenge\bin\Debug\net9.0\2.4.NumberChallenge.dll
+C:\Users\Wayne\Desktop\Projects\2.4.NumberChallenge\bin\Debug\net9.0\2.4.NumberChallenge.pdb
+C:\Users\Wayne\Desktop\Projects\2.4.NumberChallenge\obj\Debug\net9.0\2.4.NumberChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wayne\Desktop\Projects\2.4.NumberChallenge\obj\Debug\net9.0\2.4.NumberChallenge.AssemblyInfoInputs.cache
+C:\Users\Wayne\Desktop\Projects\2.4.NumberChallenge\obj\Debug\net9.0\2.4.NumberChallenge.AssemblyInfo.cs
+C:\Users\Wayne\Desktop\Projects\2.4.NumberChallenge\obj\Debug\net9.0\2.4.NumberChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Wayne\Desktop\Projects\2.4.NumberChallenge\obj\Debug\net9.0\2.4.NumberChallenge.sourcelink.json
+C:\Users\Wayne\Desktop\Projects\2.4.NumberChallenge\obj\Debug\net9.0\2.4.NumberChallenge.dll
+C:\Users\Wayne\Desktop\Projects\2.4.NumberChallenge\obj\Debug\net9.0\refint\2.4.NumberChallenge.dll
+C:\Users\Wayne\Desktop\Projects\2.4.NumberChallenge\obj\Debug\net9.0\2.4.NumberChallenge.pdb
+C:\Users\Wayne\Desktop\Projects\2.4.NumberChallenge\obj\Debug\net9.0\2.4.NumberChallenge.genruntimeconfig.cache
+C:\Users\Wayne\Desktop\Projects\2.4.NumberChallenge\obj\Debug\net9.0\ref\2.4.NumberChallenge.dll
