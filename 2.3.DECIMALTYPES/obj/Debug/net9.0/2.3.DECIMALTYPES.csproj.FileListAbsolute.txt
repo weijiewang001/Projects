@@ -1,0 +1,15 @@
+C:\Users\Wayne\Desktop\Projects\2.3.DECIMALTYPES\bin\Debug\net9.0\2.3.DECIMALTYPES.exe
+C:\Users\Wayne\Desktop\Projects\2.3.DECIMALTYPES\bin\Debug\net9.0\2.3.DECIMALTYPES.deps.json
+C:\Users\Wayne\Desktop\Projects\2.3.DECIMALTYPES\bin\Debug\net9.0\2.3.DECIMALTYPES.runtimeconfig.json
+C:\Users\Wayne\Desktop\Projects\2.3.DECIMALTYPES\bin\Debug\net9.0\2.3.DECIMALTYPES.dll
+C:\Users\Wayne\Desktop\Projects\2.3.DECIMALTYPES\bin\Debug\net9.0\2.3.DECIMALTYPES.pdb
+C:\Users\Wayne\Desktop\Projects\2.3.DECIMALTYPES\obj\Debug\net9.0\2.3.DECIMALTYPES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wayne\Desktop\Projects\2.3.DECIMALTYPES\obj\Debug\net9.0\2.3.DECIMALTYPES.AssemblyInfoInputs.cache
+C:\Users\Wayne\Desktop\Projects\2.3.DECIMALTYPES\obj\Debug\net9.0\2.3.DECIMALTYPES.AssemblyInfo.cs
+C:\Users\Wayne\Desktop\Projects\2.3.DECIMALTYPES\obj\Debug\net9.0\2.3.DECIMALTYPES.csproj.CoreCompileInputs.cache
+C:\Users\Wayne\Desktop\Projects\2.3.DECIMALTYPES\obj\Debug\net9.0\2.3.DECIMALTYPES.sourcelink.json
+C:\Users\Wayne\Desktop\Projects\2.3.DECIMALTYPES\obj\Debug\net9.0\2.3.DECIMALTYPES.dll
+C:\Users\Wayne\Desktop\Projects\2.3.DECIMALTYPES\obj\Debug\net9.0\refint\2.3.DECIMALTYPES.dll
+C:\Users\Wayne\Desktop\Projects\2.3.DECIMALTYPES\obj\Debug\net9.0\2.3.DECIMALTYPES.pdb
+C:\Users\Wayne\Desktop\Projects\2.3.DECIMALTYPES\obj\Debug\net9.0\2.3.DECIMALTYPES.genruntimeconfig.cache
+C:\Users\Wayne\Desktop\Projects\2.3.DECIMALTYPES\obj\Debug\net9.0\ref\2.3.DECIMALTYPES.dll
