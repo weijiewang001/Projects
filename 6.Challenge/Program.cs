@@ -6,5 +6,6 @@ class Program
   {
     string songLyrics = "You say gooobye, and I say hello";
 
+    Console.WriteLine(songLyrics.StartsWith("Hello"));
   }
 }
