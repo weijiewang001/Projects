@@ -1,0 +1,15 @@
+C:\Users\Wayne\Desktop\Projects\3.1.StringArray\bin\Debug\net9.0\3.1.StringArray.exe
+C:\Users\Wayne\Desktop\Projects\3.1.StringArray\bin\Debug\net9.0\3.1.StringArray.deps.json
+C:\Users\Wayne\Desktop\Projects\3.1.StringArray\bin\Debug\net9.0\3.1.StringArray.runtimeconfig.json
+C:\Users\Wayne\Desktop\Projects\3.1.StringArray\bin\Debug\net9.0\3.1.StringArray.dll
+C:\Users\Wayne\Desktop\Projects\3.1.StringArray\bin\Debug\net9.0\3.1.StringArray.pdb
+C:\Users\Wayne\Desktop\Projects\3.1.StringArray\obj\Debug\net9.0\3.1.StringArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wayne\Desktop\Projects\3.1.StringArray\obj\Debug\net9.0\3.1.StringArray.AssemblyInfoInputs.cache
+C:\Users\Wayne\Desktop\Projects\3.1.StringArray\obj\Debug\net9.0\3.1.StringArray.AssemblyInfo.cs
+C:\Users\Wayne\Desktop\Projects\3.1.StringArray\obj\Debug\net9.0\3.1.StringArray.csproj.CoreCompileInputs.cache
+C:\Users\Wayne\Desktop\Projects\3.1.StringArray\obj\Debug\net9.0\3.1.StringArray.sourcelink.json
+C:\Users\Wayne\Desktop\Projects\3.1.StringArray\obj\Debug\net9.0\3.1.StringArray.dll
+C:\Users\Wayne\Desktop\Projects\3.1.StringArray\obj\Debug\net9.0\refint\3.1.StringArray.dll
+C:\Users\Wayne\Desktop\Projects\3.1.StringArray\obj\Debug\net9.0\3.1.StringArray.pdb
+C:\Users\Wayne\Desktop\Projects\3.1.StringArray\obj\Debug\net9.0\3.1.StringArray.genruntimeconfig.cache
+C:\Users\Wayne\Desktop\Projects\3.1.StringArray\obj\Debug\net9.0\ref\3.1.StringArray.dll
