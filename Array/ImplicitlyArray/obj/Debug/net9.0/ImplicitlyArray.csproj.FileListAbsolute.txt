@@ -1,0 +1,15 @@
+C:\Users\Wayne\Desktop\Projects\Array\ImplicitlyArray\bin\Debug\net9.0\ImplicitlyArray.exe
+C:\Users\Wayne\Desktop\Projects\Array\ImplicitlyArray\bin\Debug\net9.0\ImplicitlyArray.deps.json
+C:\Users\Wayne\Desktop\Projects\Array\ImplicitlyArray\bin\Debug\net9.0\ImplicitlyArray.runtimeconfig.json
+C:\Users\Wayne\Desktop\Projects\Array\ImplicitlyArray\bin\Debug\net9.0\ImplicitlyArray.dll
+C:\Users\Wayne\Desktop\Projects\Array\ImplicitlyArray\bin\Debug\net9.0\ImplicitlyArray.pdb
+C:\Users\Wayne\Desktop\Projects\Array\ImplicitlyArray\obj\Debug\net9.0\ImplicitlyArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wayne\Desktop\Projects\Array\ImplicitlyArray\obj\Debug\net9.0\ImplicitlyArray.AssemblyInfoInputs.cache
+C:\Users\Wayne\Desktop\Projects\Array\ImplicitlyArray\obj\Debug\net9.0\ImplicitlyArray.AssemblyInfo.cs
+C:\Users\Wayne\Desktop\Projects\Array\ImplicitlyArray\obj\Debug\net9.0\ImplicitlyArray.csproj.CoreCompileInputs.cache
+C:\Users\Wayne\Desktop\Projects\Array\ImplicitlyArray\obj\Debug\net9.0\ImplicitlyArray.sourcelink.json
+C:\Users\Wayne\Desktop\Projects\Array\ImplicitlyArray\obj\Debug\net9.0\ImplicitlyArray.dll
+C:\Users\Wayne\Desktop\Projects\Array\ImplicitlyArray\obj\Debug\net9.0\refint\ImplicitlyArray.dll
+C:\Users\Wayne\Desktop\Projects\Array\ImplicitlyArray\obj\Debug\net9.0\ImplicitlyArray.pdb
+C:\Users\Wayne\Desktop\Projects\Array\ImplicitlyArray\obj\Debug\net9.0\ImplicitlyArray.genruntimeconfig.cache
+C:\Users\Wayne\Desktop\Projects\Array\ImplicitlyArray\obj\Debug\net9.0\ref\ImplicitlyArray.dll
