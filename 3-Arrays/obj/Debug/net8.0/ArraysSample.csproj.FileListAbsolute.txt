@@ -1,0 +1,15 @@
+C:\Users\Wayne\Desktop\Projects\3-Arrays\bin\Debug\net8.0\ArraysSample.exe
+C:\Users\Wayne\Desktop\Projects\3-Arrays\bin\Debug\net8.0\ArraysSample.deps.json
+C:\Users\Wayne\Desktop\Projects\3-Arrays\bin\Debug\net8.0\ArraysSample.runtimeconfig.json
+C:\Users\Wayne\Desktop\Projects\3-Arrays\bin\Debug\net8.0\ArraysSample.dll
+C:\Users\Wayne\Desktop\Projects\3-Arrays\bin\Debug\net8.0\ArraysSample.pdb
+C:\Users\Wayne\Desktop\Projects\3-Arrays\obj\Debug\net8.0\ArraysSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wayne\Desktop\Projects\3-Arrays\obj\Debug\net8.0\ArraysSample.AssemblyInfoInputs.cache
+C:\Users\Wayne\Desktop\Projects\3-Arrays\obj\Debug\net8.0\ArraysSample.AssemblyInfo.cs
+C:\Users\Wayne\Desktop\Projects\3-Arrays\obj\Debug\net8.0\ArraysSample.csproj.CoreCompileInputs.cache
+C:\Users\Wayne\Desktop\Projects\3-Arrays\obj\Debug\net8.0\ArraysSample.sourcelink.json
+C:\Users\Wayne\Desktop\Projects\3-Arrays\obj\Debug\net8.0\ArraysSample.dll
+C:\Users\Wayne\Desktop\Projects\3-Arrays\obj\Debug\net8.0\refint\ArraysSample.dll
+C:\Users\Wayne\Desktop\Projects\3-Arrays\obj\Debug\net8.0\ArraysSample.pdb
+C:\Users\Wayne\Desktop\Projects\3-Arrays\obj\Debug\net8.0\ArraysSample.genruntimeconfig.cache
+C:\Users\Wayne\Desktop\Projects\3-Arrays\obj\Debug\net8.0\ref\ArraysSample.dll
