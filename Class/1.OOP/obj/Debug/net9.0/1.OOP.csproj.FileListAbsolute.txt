@@ -1,0 +1,15 @@
+C:\Users\Wayne\Desktop\Projects\Class\1.OOP\bin\Debug\net9.0\1.OOP.exe
+C:\Users\Wayne\Desktop\Projects\Class\1.OOP\bin\Debug\net9.0\1.OOP.deps.json
+C:\Users\Wayne\Desktop\Projects\Class\1.OOP\bin\Debug\net9.0\1.OOP.runtimeconfig.json
+C:\Users\Wayne\Desktop\Projects\Class\1.OOP\bin\Debug\net9.0\1.OOP.dll
+C:\Users\Wayne\Desktop\Projects\Class\1.OOP\bin\Debug\net9.0\1.OOP.pdb
+C:\Users\Wayne\Desktop\Projects\Class\1.OOP\obj\Debug\net9.0\1.OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wayne\Desktop\Projects\Class\1.OOP\obj\Debug\net9.0\1.OOP.AssemblyInfoInputs.cache
+C:\Users\Wayne\Desktop\Projects\Class\1.OOP\obj\Debug\net9.0\1.OOP.AssemblyInfo.cs
+C:\Users\Wayne\Desktop\Projects\Class\1.OOP\obj\Debug\net9.0\1.OOP.csproj.CoreCompileInputs.cache
+C:\Users\Wayne\Desktop\Projects\Class\1.OOP\obj\Debug\net9.0\1.OOP.sourcelink.json
+C:\Users\Wayne\Desktop\Projects\Class\1.OOP\obj\Debug\net9.0\1.OOP.dll
+C:\Users\Wayne\Desktop\Projects\Class\1.OOP\obj\Debug\net9.0\refint\1.OOP.dll
+C:\Users\Wayne\Desktop\Projects\Class\1.OOP\obj\Debug\net9.0\1.OOP.pdb
+C:\Users\Wayne\Desktop\Projects\Class\1.OOP\obj\Debug\net9.0\1.OOP.genruntimeconfig.cache
+C:\Users\Wayne\Desktop\Projects\Class\1.OOP\obj\Debug\net9.0\ref\1.OOP.dll
