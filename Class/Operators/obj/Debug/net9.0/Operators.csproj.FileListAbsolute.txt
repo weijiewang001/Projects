@@ -1,0 +1,15 @@
+C:\Users\Wayne\Desktop\Projects\Class\Operators\bin\Debug\net9.0\Operators.exe
+C:\Users\Wayne\Desktop\Projects\Class\Operators\bin\Debug\net9.0\Operators.deps.json
+C:\Users\Wayne\Desktop\Projects\Class\Operators\bin\Debug\net9.0\Operators.runtimeconfig.json
+C:\Users\Wayne\Desktop\Projects\Class\Operators\bin\Debug\net9.0\Operators.dll
+C:\Users\Wayne\Desktop\Projects\Class\Operators\bin\Debug\net9.0\Operators.pdb
+C:\Users\Wayne\Desktop\Projects\Class\Operators\obj\Debug\net9.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wayne\Desktop\Projects\Class\Operators\obj\Debug\net9.0\Operators.AssemblyInfoInputs.cache
+C:\Users\Wayne\Desktop\Projects\Class\Operators\obj\Debug\net9.0\Operators.AssemblyInfo.cs
+C:\Users\Wayne\Desktop\Projects\Class\Operators\obj\Debug\net9.0\Operators.csproj.CoreCompileInputs.cache
+C:\Users\Wayne\Desktop\Projects\Class\Operators\obj\Debug\net9.0\Operators.sourcelink.json
+C:\Users\Wayne\Desktop\Projects\Class\Operators\obj\Debug\net9.0\Operators.dll
+C:\Users\Wayne\Desktop\Projects\Class\Operators\obj\Debug\net9.0\refint\Operators.dll
+C:\Users\Wayne\Desktop\Projects\Class\Operators\obj\Debug\net9.0\Operators.pdb
+C:\Users\Wayne\Desktop\Projects\Class\Operators\obj\Debug\net9.0\Operators.genruntimeconfig.cache
+C:\Users\Wayne\Desktop\Projects\Class\Operators\obj\Debug\net9.0\ref\Operators.dll
