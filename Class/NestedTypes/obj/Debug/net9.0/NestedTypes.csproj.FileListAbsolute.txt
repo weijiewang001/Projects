@@ -1,0 +1,15 @@
+C:\Users\Wayne\Desktop\Projects\Class\NestedTypes\bin\Debug\net9.0\NestedTypes.exe
+C:\Users\Wayne\Desktop\Projects\Class\NestedTypes\bin\Debug\net9.0\NestedTypes.deps.json
+C:\Users\Wayne\Desktop\Projects\Class\NestedTypes\bin\Debug\net9.0\NestedTypes.runtimeconfig.json
+C:\Users\Wayne\Desktop\Projects\Class\NestedTypes\bin\Debug\net9.0\NestedTypes.dll
+C:\Users\Wayne\Desktop\Projects\Class\NestedTypes\bin\Debug\net9.0\NestedTypes.pdb
+C:\Users\Wayne\Desktop\Projects\Class\NestedTypes\obj\Debug\net9.0\NestedTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wayne\Desktop\Projects\Class\NestedTypes\obj\Debug\net9.0\NestedTypes.AssemblyInfoInputs.cache
+C:\Users\Wayne\Desktop\Projects\Class\NestedTypes\obj\Debug\net9.0\NestedTypes.AssemblyInfo.cs
+C:\Users\Wayne\Desktop\Projects\Class\NestedTypes\obj\Debug\net9.0\NestedTypes.csproj.CoreCompileInputs.cache
+C:\Users\Wayne\Desktop\Projects\Class\NestedTypes\obj\Debug\net9.0\NestedTypes.sourcelink.json
+C:\Users\Wayne\Desktop\Projects\Class\NestedTypes\obj\Debug\net9.0\NestedTypes.dll
+C:\Users\Wayne\Desktop\Projects\Class\NestedTypes\obj\Debug\net9.0\refint\NestedTypes.dll
+C:\Users\Wayne\Desktop\Projects\Class\NestedTypes\obj\Debug\net9.0\NestedTypes.pdb
+C:\Users\Wayne\Desktop\Projects\Class\NestedTypes\obj\Debug\net9.0\NestedTypes.genruntimeconfig.cache
+C:\Users\Wayne\Desktop\Projects\Class\NestedTypes\obj\Debug\net9.0\ref\NestedTypes.dll
