@@ -1,0 +1,9 @@
+@model IEnumerable<WebAppASP.Models.Product>
+
+<h1>Products</h1>
+<ul>
+  @foreach (var product in Model)
+  {
+    <li>@product.Name - $@product.Price</li>
+  }
+</ul>
