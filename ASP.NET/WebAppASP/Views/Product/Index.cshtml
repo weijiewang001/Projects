@@ -1,9 +1,25 @@
 @model IEnumerable<WebAppASP.Models.Product>
 
 <h1>Products</h1>
-<ul>
-  @foreach (var product in Model)
-  {
-    <li>@product.Name - $@product.Price</li>
-  }
-</ul>
+<a href="/Product/Create">Create New Product</a>
+<table>
+    <thead>
+        <tr>
+            <th>Product Image</th>
+            <th>Name</th>
+            <th>Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>
+                    <img src="@product.ProductImage" alt="@product.Name" style="max-width: 100px; height: auto;" />
+                </td>
+                <td>@product.Name</td>
+                <td>@product.Price</td>
+            </tr>
+        }
+    </tbody>
+</table>

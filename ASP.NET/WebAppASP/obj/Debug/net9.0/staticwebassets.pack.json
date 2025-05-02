@@ -2,7 +2,11 @@
   "Files": [
     {
       "Id": "C:\\Users\\Wayne\\Desktop\\Projects\\ASP.NET\\WebAppASP\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\WebAppASP.bundle.scp.css",
-      "PackagePath": "staticwebassets\\WebAppASP.m3zq10f02a.bundle.scp.css"
+      "PackagePath": "staticwebassets\\WebAppASP.h5z87u6zgf.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Wayne\\Desktop\\Projects\\ASP.NET\\WebAppASP\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
     },
     {
       "Id": "C:\\Users\\Wayne\\Desktop\\Projects\\ASP.NET\\WebAppASP\\wwwroot\\css\\site.css",
@@ -11,6 +15,14 @@
     {
       "Id": "C:\\Users\\Wayne\\Desktop\\Projects\\ASP.NET\\WebAppASP\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Wayne\\Desktop\\Projects\\ASP.NET\\WebAppASP\\wwwroot\\images\\bread_ab68a048-0e63-4a4d-90ec-0df3f0f63eec.jpg",
+      "PackagePath": "staticwebassets\\images\\bread_ab68a048-0e63-4a4d-90ec-0df3f0f63eec.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Wayne\\Desktop\\Projects\\ASP.NET\\WebAppASP\\wwwroot\\images\\milk_6e72f4c2-f972-4ecf-b335-79004eb95c34.jpg",
+      "PackagePath": "staticwebassets\\images\\milk_6e72f4c2-f972-4ecf-b335-79004eb95c34.jpg"
     },
     {
       "Id": "C:\\Users\\Wayne\\Desktop\\Projects\\ASP.NET\\WebAppASP\\wwwroot\\images\\products.jpg",
@@ -23,6 +35,14 @@
     {
       "Id": "C:\\Users\\Wayne\\Desktop\\Projects\\ASP.NET\\WebAppASP\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Wayne\\Desktop\\Projects\\ASP.NET\\WebAppASP\\wwwroot\\lib\\bootstrap\\dist\\css\\_bootswatch.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\_bootswatch.scss"
+    },
+    {
+      "Id": "C:\\Users\\Wayne\\Desktop\\Projects\\ASP.NET\\WebAppASP\\wwwroot\\lib\\bootstrap\\dist\\css\\_variables.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\_variables.scss"
     },
     {
       "Id": "C:\\Users\\Wayne\\Desktop\\Projects\\ASP.NET\\WebAppASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
@@ -211,6 +231,14 @@
     {
       "Id": "C:\\Users\\Wayne\\Desktop\\Projects\\ASP.NET\\WebAppASP\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Wayne\\Desktop\\Projects\\ASP.NET\\WebAppASP\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Wayne\\Desktop\\Projects\\ASP.NET\\WebAppASP\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
       "Id": "C:\\Users\\Wayne\\Desktop\\Projects\\ASP.NET\\WebAppASP\\wwwroot\\lib\\jquery-validation\\LICENSE.md",

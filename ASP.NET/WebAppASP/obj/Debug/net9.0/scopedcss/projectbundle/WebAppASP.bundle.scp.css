@@ -1,49 +1,80 @@
 /* _content/WebAppASP/Views/Shared/_Layout.cshtml.rz.scp.css */
-/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
-for details on configuring this project to bundle and minify static web assets. */
-
 a.navbar-brand[b-grbgl7bu3f] {
   white-space: normal;
   text-align: center;
   word-break: break-all;
+  color: #bfc7cf; /* Modern Blue */
+  font-weight: bold;
 }
 
 a[b-grbgl7bu3f] {
-  color: #0077cc;
+  color: #0056b3; /* Darker Blue */
+  text-decoration: none;
+}
+
+a:hover[b-grbgl7bu3f] {
+  color: #003d80; /* Even Darker Blue */
+  text-decoration: underline;
 }
 
 .btn-primary[b-grbgl7bu3f] {
   color: #fff;
-  background-color: #1b6ec2;
-  border-color: #1861ac;
+  background-color: #007bff; /* Modern Blue */
+  border-color: #0056b3; /* Darker Blue */
+}
+
+.btn-primary:hover[b-grbgl7bu3f] {
+  background-color: #0056b3; /* Darker Blue */
+  border-color: #003d80; /* Even Darker Blue */
 }
 
 .nav-pills .nav-link.active[b-grbgl7bu3f], .nav-pills .show > .nav-link[b-grbgl7bu3f] {
   color: #fff;
-  background-color: #1b6ec2;
-  border-color: #1861ac;
+  background-color: #28a745; /* Modern Green */
+  border-color: #218838; /* Darker Green */
+}
+
+.nav-pills .nav-link[b-grbgl7bu3f] {
+  color: #28a745; /* Modern Green */
+}
+
+.nav-pills .nav-link:hover[b-grbgl7bu3f] {
+  background-color: #218838; /* Darker Green */
+  color: #fff;
 }
 
 .border-top[b-grbgl7bu3f] {
-  border-top: 1px solid #e5e5e5;
+  border-top: 1px solid #dee2e6; /* Light Gray */
 }
 .border-bottom[b-grbgl7bu3f] {
-  border-bottom: 1px solid #e5e5e5;
+  border-bottom: 1px solid #dee2e6; /* Light Gray */
 }
 
 .box-shadow[b-grbgl7bu3f] {
-  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .1); /* Subtle Shadow */
 }
 
 button.accept-policy[b-grbgl7bu3f] {
   font-size: 1rem;
   line-height: inherit;
+  background-color: #17a2b8; /* Modern Cyan */
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+button.accept-policy:hover[b-grbgl7bu3f] {
+  background-color: #138496; /* Darker Cyan */
 }
 
 .footer[b-grbgl7bu3f] {
   position: absolute;
   bottom: 0;
   width: 100%;
-  white-space: nowrap;
+  background-color: #343a40; /* Dark Gray */
+  color: #fff;
+  text-align: center;
   line-height: 60px;
+  font-weight: bold;
 }

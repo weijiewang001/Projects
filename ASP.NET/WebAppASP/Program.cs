@@ -1,16 +1,19 @@
+using System.Runtime.CompilerServices;
 using Microsoft.AspNetCore.Builder;
-using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Microsoft.EntityFrameworkCore;
+using WebAppASP.Models;
 
 internal class Program
 {
-    public static void Main(string[] args)
+    private static void Main(string[] args)
     {
         var builder = WebApplication.CreateBuilder(args);
 
+        // add this for using the database context
         builder.Services.AddDbContext<AppDbContext>(options =>
-        options.UseSqlite("Data Source=product.db"));
+        options.UseSqlite("Data Source=products.db"));
         // Add services to the container.
         builder.Services.AddControllersWithViews();
 
@@ -25,21 +28,28 @@ internal class Program
         }
 
         app.UseHttpsRedirection();
+        app.UseStaticFiles();
+
         app.UseRouting();
 
         app.UseAuthorization();
 
-        app.MapStaticAssets();
-
         app.MapControllerRoute(
             name: "default",
-            pattern: "{controller=Home}/{action=Index}/{id?}")
-            .WithStaticAssets();
-
+            pattern: "{controller=Home}/{action=Index}/{id?}");
 
         app.Run();
     }
+
+
 }
+public class Startup
+{
+    public void ConfigureServices(IServiceCollection services)
+    {
+        services.AddControllersWithViews();
 
-
-
+        services.AddDbContext<AppDbContext>(options =>
+            options.UseSqlite("Data Source=products.db"));
+    }
+}
