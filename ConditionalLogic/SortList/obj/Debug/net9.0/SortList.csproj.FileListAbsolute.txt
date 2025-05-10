@@ -1,0 +1,15 @@
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\SortList\bin\Debug\net9.0\SortList.exe
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\SortList\bin\Debug\net9.0\SortList.deps.json
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\SortList\bin\Debug\net9.0\SortList.runtimeconfig.json
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\SortList\bin\Debug\net9.0\SortList.dll
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\SortList\bin\Debug\net9.0\SortList.pdb
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\SortList\obj\Debug\net9.0\SortList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\SortList\obj\Debug\net9.0\SortList.AssemblyInfoInputs.cache
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\SortList\obj\Debug\net9.0\SortList.AssemblyInfo.cs
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\SortList\obj\Debug\net9.0\SortList.csproj.CoreCompileInputs.cache
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\SortList\obj\Debug\net9.0\SortList.sourcelink.json
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\SortList\obj\Debug\net9.0\SortList.dll
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\SortList\obj\Debug\net9.0\refint\SortList.dll
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\SortList\obj\Debug\net9.0\SortList.pdb
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\SortList\obj\Debug\net9.0\SortList.genruntimeconfig.cache
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\SortList\obj\Debug\net9.0\ref\SortList.dll
