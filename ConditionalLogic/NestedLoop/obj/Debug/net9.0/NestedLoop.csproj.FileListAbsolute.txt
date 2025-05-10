@@ -1,0 +1,15 @@
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\NestedLoop\bin\Debug\net9.0\NestedLoop.exe
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\NestedLoop\bin\Debug\net9.0\NestedLoop.deps.json
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\NestedLoop\bin\Debug\net9.0\NestedLoop.runtimeconfig.json
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\NestedLoop\bin\Debug\net9.0\NestedLoop.dll
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\NestedLoop\bin\Debug\net9.0\NestedLoop.pdb
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\NestedLoop\obj\Debug\net9.0\NestedLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\NestedLoop\obj\Debug\net9.0\NestedLoop.AssemblyInfoInputs.cache
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\NestedLoop\obj\Debug\net9.0\NestedLoop.AssemblyInfo.cs
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\NestedLoop\obj\Debug\net9.0\NestedLoop.csproj.CoreCompileInputs.cache
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\NestedLoop\obj\Debug\net9.0\NestedLoop.sourcelink.json
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\NestedLoop\obj\Debug\net9.0\NestedLoop.dll
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\NestedLoop\obj\Debug\net9.0\refint\NestedLoop.dll
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\NestedLoop\obj\Debug\net9.0\NestedLoop.pdb
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\NestedLoop\obj\Debug\net9.0\NestedLoop.genruntimeconfig.cache
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\NestedLoop\obj\Debug\net9.0\ref\NestedLoop.dll
