@@ -1,0 +1,15 @@
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\ListOfOtherTypes\bin\Debug\net9.0\ListOfOtherTypes.exe
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\ListOfOtherTypes\bin\Debug\net9.0\ListOfOtherTypes.deps.json
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\ListOfOtherTypes\bin\Debug\net9.0\ListOfOtherTypes.runtimeconfig.json
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\ListOfOtherTypes\bin\Debug\net9.0\ListOfOtherTypes.dll
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\ListOfOtherTypes\bin\Debug\net9.0\ListOfOtherTypes.pdb
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\ListOfOtherTypes\obj\Debug\net9.0\ListOfOtherTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\ListOfOtherTypes\obj\Debug\net9.0\ListOfOtherTypes.AssemblyInfoInputs.cache
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\ListOfOtherTypes\obj\Debug\net9.0\ListOfOtherTypes.AssemblyInfo.cs
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\ListOfOtherTypes\obj\Debug\net9.0\ListOfOtherTypes.csproj.CoreCompileInputs.cache
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\ListOfOtherTypes\obj\Debug\net9.0\ListOfOtherTypes.sourcelink.json
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\ListOfOtherTypes\obj\Debug\net9.0\ListOfOtherTypes.dll
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\ListOfOtherTypes\obj\Debug\net9.0\refint\ListOfOtherTypes.dll
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\ListOfOtherTypes\obj\Debug\net9.0\ListOfOtherTypes.pdb
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\ListOfOtherTypes\obj\Debug\net9.0\ListOfOtherTypes.genruntimeconfig.cache
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\ListOfOtherTypes\obj\Debug\net9.0\ref\ListOfOtherTypes.dll
