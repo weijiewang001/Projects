@@ -1,0 +1,15 @@
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\DoWhileLoop\bin\Debug\net9.0\DoWhileLoop.exe
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\DoWhileLoop\bin\Debug\net9.0\DoWhileLoop.deps.json
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\DoWhileLoop\bin\Debug\net9.0\DoWhileLoop.runtimeconfig.json
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\DoWhileLoop\bin\Debug\net9.0\DoWhileLoop.dll
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\DoWhileLoop\bin\Debug\net9.0\DoWhileLoop.pdb
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\DoWhileLoop\obj\Debug\net9.0\DoWhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\DoWhileLoop\obj\Debug\net9.0\DoWhileLoop.AssemblyInfoInputs.cache
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\DoWhileLoop\obj\Debug\net9.0\DoWhileLoop.AssemblyInfo.cs
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\DoWhileLoop\obj\Debug\net9.0\DoWhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\DoWhileLoop\obj\Debug\net9.0\DoWhileLoop.sourcelink.json
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\DoWhileLoop\obj\Debug\net9.0\DoWhileLoop.dll
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\DoWhileLoop\obj\Debug\net9.0\refint\DoWhileLoop.dll
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\DoWhileLoop\obj\Debug\net9.0\DoWhileLoop.pdb
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\DoWhileLoop\obj\Debug\net9.0\DoWhileLoop.genruntimeconfig.cache
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\DoWhileLoop\obj\Debug\net9.0\ref\DoWhileLoop.dll
