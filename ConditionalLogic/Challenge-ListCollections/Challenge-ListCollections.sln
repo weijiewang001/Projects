@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge-ListCollections", "Challenge-ListCollections.csproj", "{C66933B5-3594-433C-F550-1FB5E3A989A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C66933B5-3594-433C-F550-1FB5E3A989A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C66933B5-3594-433C-F550-1FB5E3A989A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C66933B5-3594-433C-F550-1FB5E3A989A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C66933B5-3594-433C-F550-1FB5E3A989A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA7DB96E-6AA0-4E15-B842-01893C7280F7}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\Challenge-ListCollections\bin\Debug\net9.0\Challenge-ListCollections.exe
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\Challenge-ListCollections\bin\Debug\net9.0\Challenge-ListCollections.deps.json
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\Challenge-ListCollections\bin\Debug\net9.0\Challenge-ListCollections.runtimeconfig.json
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\Challenge-ListCollections\bin\Debug\net9.0\Challenge-ListCollections.dll
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\Challenge-ListCollections\bin\Debug\net9.0\Challenge-ListCollections.pdb
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\Challenge-ListCollections\obj\Debug\net9.0\Challenge-ListCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\Challenge-ListCollections\obj\Debug\net9.0\Challenge-ListCollections.AssemblyInfoInputs.cache
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\Challenge-ListCollections\obj\Debug\net9.0\Challenge-ListCollections.AssemblyInfo.cs
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\Challenge-ListCollections\obj\Debug\net9.0\Challenge-ListCollections.csproj.CoreCompileInputs.cache
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\Challenge-ListCollections\obj\Debug\net9.0\Challenge-ListCollections.sourcelink.json
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\Challenge-ListCollections\obj\Debug\net9.0\Challenge-ListCollections.dll
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\Challenge-ListCollections\obj\Debug\net9.0\refint\Challenge-ListCollections.dll
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\Challenge-ListCollections\obj\Debug\net9.0\Challenge-ListCollections.pdb
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\Challenge-ListCollections\obj\Debug\net9.0\Challenge-ListCollections.genruntimeconfig.cache
+C:\Users\Wayne\Desktop\Projects\ConditionalLogic\Challenge-ListCollections\obj\Debug\net9.0\ref\Challenge-ListCollections.dll
