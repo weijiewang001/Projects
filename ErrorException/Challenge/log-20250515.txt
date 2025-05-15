@@ -1,0 +1,8 @@
+2025-05-15 22:15:19.933 +10:00 [ERR] This is an error message!
+2025-05-15 22:15:47.579 +10:00 [ERR] This is an error message!System.DivideByZeroException: Attempted to divide by zero.
+   at Program.Main() in C:\Users\Wayne\Desktop\Projects\ErrorException\Challenge\Program.cs:line 14
+2025-05-15 22:25:40.113 +10:00 [INF] Information message: Before Calculation
+2025-05-15 22:25:40.162 +10:00 [ERR] This is an error message!System.DivideByZeroException: Attempted to divide by zero.
+   at Program.Main() in C:\Users\Wayne\Desktop\Projects\ErrorException\Challenge\Program.cs:line 20
+2025-05-15 22:27:21.135 +10:00 [INF] Information message: Before Calculation
+2025-05-15 22:27:21.168 +10:00 [ERR] This is an error message!Attempted to divide by zero.
